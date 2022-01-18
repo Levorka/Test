@@ -1,2 +1,4 @@
 Test new File
-some new test
+some new testsome text
+some text
+some text
